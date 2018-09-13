@@ -19,12 +19,6 @@
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/</loc>
-    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jichuanwang.github.io/tags/pages/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
@@ -38,6 +32,12 @@
   
   <url>
     <loc>https://jichuanwang.github.io/tags/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jichuanwang.github.io/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>

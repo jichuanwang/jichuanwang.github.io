@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on My New Hugo Site</title>
+    <title>Pages on 首页</title>
     <link>https://jichuanwang.github.io/categories/pages/</link>
-    <description>Recent content in Pages on My New Hugo Site</description>
+    <description>Recent content in Pages on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Dec 2017 11:18:15 +0800</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>hugo如何使用</title>
       <link>https://jichuanwang.github.io/</link>
       <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
       
       <guid>https://jichuanwang.github.io/</guid>
-      <description>Hello Hugo  aaa bbb cccssssss sdsdss  第二</description>
+      <description>这是dolphin第一篇博客 ss 百度</description>
     </item>
     
   </channel>
