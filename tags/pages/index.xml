@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on 首页</title>
-    <link>https://jichuanwang.github.io/tags/pages/</link>
-    <description>Recent content in Pages on 首页</description>
+    <title>Pages on </title>
+    <link>https://jichuangwang.github.io/tags/pages/</link>
+    <description>Recent content in Pages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Dec 2017 11:18:15 +0800</lastBuildDate>
     
-	<atom:link href="https://jichuanwang.github.io/tags/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jichuangwang.github.io/tags/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hugo如何使用</title>
-      <link>https://jichuanwang.github.io/</link>
+      <title>概览</title>
+      <link>https://jichuangwang.github.io/</link>
       <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
       
-      <guid>https://jichuanwang.github.io/</guid>
-      <description>这是dolphin第一篇博客 ss 百度</description>
+      <guid>https://jichuangwang.github.io/</guid>
+      <description> 概述 </description>
     </item>
     
   </channel>

@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jichuanwang.github.io/</loc>
+    <loc>https://jichuangwang.github.io/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jichuanwang.github.io/tags/hugo/</loc>
+    <loc>https://jichuangwang.github.io/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/tags/pages/</loc>
+    <loc>https://jichuangwang.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jichuangwang.github.io/tags/hugo/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/categories/pages/</loc>
+    <loc>https://jichuangwang.github.io/tags/pages/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/tags/</loc>
+    <loc>https://jichuangwang.github.io/categories/pages/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jichuanwang.github.io/</loc>
+    <loc>https://jichuangwang.github.io/tags/</loc>
     <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
